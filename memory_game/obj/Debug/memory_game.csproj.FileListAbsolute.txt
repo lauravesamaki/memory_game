@@ -1,0 +1,11 @@
+D:\Projektit\memory_game\memory_game\bin\Debug\memory_game.exe.config
+D:\Projektit\memory_game\memory_game\bin\Debug\memory_game.exe
+D:\Projektit\memory_game\memory_game\bin\Debug\memory_game.pdb
+D:\Projektit\memory_game\memory_game\obj\Debug\memory_game.csproj.AssemblyReference.cache
+D:\Projektit\memory_game\memory_game\obj\Debug\memory_game.csproj.SuggestedBindingRedirects.cache
+D:\Projektit\memory_game\memory_game\obj\Debug\memory_game.Form1.resources
+D:\Projektit\memory_game\memory_game\obj\Debug\memory_game.Properties.Resources.resources
+D:\Projektit\memory_game\memory_game\obj\Debug\memory_game.csproj.GenerateResource.cache
+D:\Projektit\memory_game\memory_game\obj\Debug\memory_game.csproj.CoreCompileInputs.cache
+D:\Projektit\memory_game\memory_game\obj\Debug\memory_game.exe
+D:\Projektit\memory_game\memory_game\obj\Debug\memory_game.pdb
